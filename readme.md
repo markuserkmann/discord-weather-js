@@ -1,1 +1,1 @@
-Basic discord bot script what displays the current weather using openweather API. The weather display can be triggered with the command /ilm
+Basic discord bot script what has built in hangman game and current weather displaying for the specified region. By default it has been translated into estonian and the weather has been set to Tartu.
