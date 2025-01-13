@@ -1,5 +1,6 @@
 const { SlashCommandBuilder } = require('discord.js');
 
+// Template for creating a commmand
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('test')

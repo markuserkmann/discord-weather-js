@@ -1,0 +1,1 @@
+Basic discord bot script what displays the current weather using openweather API. The weather display can be triggered with the command /ilm
