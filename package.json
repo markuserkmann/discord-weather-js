@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.17.3"
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "openmeteo": "^1.1.4"
   }
 }
